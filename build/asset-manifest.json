@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/js/main.f66133bb.js",
+    "static/js/787.545aecf5.chunk.js": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/js/787.545aecf5.chunk.js",
+    "index.html": "/vincentokoth.github.io/react-weatherforecast-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.f66133bb.js.map": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/js/main.f66133bb.js.map",
+    "787.545aecf5.chunk.js.map": "/vincentokoth.github.io/react-weatherforecast-dashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f66133bb.js"
+  ]
+}
