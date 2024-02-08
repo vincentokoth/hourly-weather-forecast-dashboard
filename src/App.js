@@ -100,9 +100,9 @@ export default class App extends Component {
           lowestTempHour={lowestTempHour}
           lowestTempProbability={lowestTempProbability+"°C"}
           highestPrecipHour={highestPrecipHour}
-          highestPrecipProbability={highestPrecipProbability+"mm"}
+          highestPrecipProbability={highestPrecipProbability+"%"}
           lowestPrecipHour={lowestPrecipHour}
-          lowestPrecipProbability={lowestPrecipProbability+"mm"}
+          lowestPrecipProbability={lowestPrecipProbability+"%"}
         />
         <ChartSection
           temperature={weatherData.hourly ? weatherData.hourly.temperature_2m : []}

@@ -7,4 +7,3 @@ It is an End to End Project. Uses [React-ApexCharts.js](https://apexcharts.com/r
 
 # #NOTE# #
 Enter `npm install` after cloning the project to install all the dependencies automatically.
-Happy Learning.
